@@ -1,5 +1,5 @@
 # Email-Spam-Filter
-The algorithm checks whether the email is a spam email.
+The algorithm checks whether or not the email is a spam email.
 
 Programming Language: Python
 Tools: Jupyter Notebook
